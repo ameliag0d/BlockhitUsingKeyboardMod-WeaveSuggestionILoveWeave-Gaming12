@@ -1,0 +1,10 @@
+{
+  "name": "mega-blockhit-tutorial-22",
+  "version": "1.0.0",
+  "description": "allows MEGA blockhnitu tutorial (Implemented in 3.2 milliseconds with a proc macro)",
+  "modId": "Better Worse Block hit Who knows",
+  "authors": "Krueger12",
+  "entrypoints": [
+    "gang.squad.fam.gang.mega.team.Main"
+  ]
+}
